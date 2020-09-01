@@ -1,0 +1,25 @@
+section{
+    width: 80%;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+#btnAdd{
+    margin-bottom: 10px;
+}
+.table th{
+    text-align: center;
+}
+#tbStudent{
+    text-align: center;
+}
+.modal-body span{
+    color: red;
+}
+.btn{
+    outline: none;
+}
+#divPage button{
+    margin: 10px;
+}
